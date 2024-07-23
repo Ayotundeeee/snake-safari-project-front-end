@@ -5,7 +5,7 @@ input {
     border: 1px solid rgb(212, 237, 212);
     outline: none;
     font-size: 15px;
-    background-color: rgb(231, 230, 228);
+    background-color: rgb(205, 205, 193);
 }
 
 select {
@@ -15,7 +15,7 @@ select {
     border: 1px solid rgb(212, 237, 212);
     outline: none;
     font-size: 15px;
-    background-color: rgb(231, 230, 228);
+    background-color: rgb(205, 205, 193);
 }
 
 form {
@@ -30,6 +30,7 @@ fieldset {
     width: 80%;
     margin: 0 auto;
     padding: 10px;
+    background-color: rgb(237, 237, 215);
 }
 
 label {
