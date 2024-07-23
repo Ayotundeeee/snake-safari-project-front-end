@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 100px;
+    background-color: #a1bfa2;
+    font-size: 24px;
+    margin-bottom: 10px;
+    border-bottom: 7px solid rgb(236, 226, 213);
+}
+
+.header{
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #164345;
+}
+
+.collection {
+    font-size: 30;
+}

@@ -1,0 +1,60 @@
+.show-page {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.show-page .snake-container {
+    width: 50%;
+    max-height: 100%;
+    margin: 50px auto 10px auto;
+    text-align: center;
+    border-radius: 20px;
+    padding: 15px;
+    background-color: rgb(237, 237, 215);
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.show-page a #back-btn {
+    margin: 20px auto;
+    font-size: 18px;
+    justify-self: center;
+    background-color: #65a167;
+    border: none;
+    border-radius: 6px;
+    color: whitesmoke;
+    padding: 0.5em 1.5em;
+}
+
+.snake-container .info{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.snake-container img {
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.show-page a {
+    margin: 0 auto;
+}
+
+.snake-container .edit-delete {
+    margin: 0 auto;;
+    justify-self: center;
+    justify-content: space-between;
+}
+
+.snake-container button{
+    margin: 25px 30px 5px 30px;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    background-color: #65a167;
+    color: whitesmoke;
+    padding: 0.5em 1.5em;
+}
