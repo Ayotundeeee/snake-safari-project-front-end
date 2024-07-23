@@ -1,8 +1,14 @@
-# React + Vite
+#
+- This app allows users to create and manage a collection of snakes with the aim of broadening knowledge about the reptiles.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- The user can perform all CRUD actions.
 
-Currently, two official plugins are available:
+- User can view all snakes in the collection.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User can view a single snake by the id.
+
+- User can Create and add new snakes to the collection.
+
+- User can Delete a snake.
+
+- User can Edit a snake.
