@@ -26,7 +26,19 @@
     padding: 0.5em 1.5em;
 }
 
+.habitat {
+    margin: 3px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: large;
+}
+
 .snake-container .info{
+    padding: 5px;
+    border: 3px solid rgb(226, 209, 188);
+    border-radius: 10px;
     margin-top: 20px;
     display: flex;
     flex-direction: column;
